@@ -1,0 +1,3 @@
+<iframe src="pdf/60_N078_陳沛妤_簡報.pdf" width="50%" height="330px"></iframe>
+<p><a href="pdf/60_N078_陳沛妤_簡報.pdf">PDF Test</a></p>
+<p><a href="images/banner2.png" download>Download Pic</a></p>
